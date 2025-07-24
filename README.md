@@ -22,13 +22,4 @@ I've always enjoyed blending **creativity with code**, and this little **cartoon
 - **Libraries:** `turtle`, `math`, `time`, `threading`
 - **Tools:** Basic geometry + creative drawing logic
 
----
 
-## 🚀 How to Run
-
-1. Make sure you have Python 3 installed.
-2. Clone this repository:
-
-   ```bash
-   git clone https://github.com/akhilesh618a/CODSOFT
-   cd CODSOFT
